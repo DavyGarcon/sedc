@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://vigilant-euclid-6eaff6.netlify.app"
+languageCode = "fr-fr"
 title = "Restaurant Hugo"
 theme = "restaurant-hugo"
 summaryLength = "10"
