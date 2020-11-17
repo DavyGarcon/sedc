@@ -42,34 +42,38 @@ URL = "js/main.js"
 
 [[menu.main]]
 name = "Home"
-URL = "hero-area"
+URL = "slider"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
-URL = "about-us"
+name = "Vie Quotidienne"
+URL = "vie-quotidienne"
 weight = 2
+
+[[menu.main]]
+name = "Vie Citoyenne"
+URL = "vie-citoyenne"
+weight = 3
+
+[[menu.main]]
+name = "Infos Pratiques"
+URL = "infos-pratiques"
+weight = 4
+
+[[menu.main]]
+name = "Culture et Loisirs"
+URL = "culture-et-loisirs"
+weight = 5
+
+[[menu.main]]
+name = "Agenda/Actu"
+URL = "agenda-actu"
+weight = 6
 
 [[menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 3
-
-[[menu.main]]
-name = "Price"
-URL = "price"
-weight = 4
-
-[[menu.main]]
-name = "News"
-URL = "subscribe"
-weight = 5
-
-[[menu.main]]
-name = "Contact Us"
-URL = "contact-us"
-weight = 6
-
+weight = 7
 
 #################### default parameters ################################
 [params]
@@ -81,6 +85,16 @@ description = "This is meta description"
 google_analitycs_id = "Your ID"
 # mainSections
 main_sections = ["post"]
+# vieQuotidienneSections
+vie_quotidienne_sections = ["vie_quotidienne"]
+# vieQuotidienneSections
+vie_citoyenne_sections = ["vie_citoyenne"]
+# infosPratiquesSections
+infos_pratiques_sections = ["infos_pratiques"]
+# cultureEtLoisirsSections
+culture_et_loisirs_sections = ["culture_et_loisirs"]
+# agendaActuSections
+agenda_actu_sections = ["agenda_actu"]
 # copyright
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
