@@ -15,3 +15,53 @@ collections: # A list of collections the CMS should be able to edit
         - {label: "Description", name: "description", widget: "text"}
         - {label: "Image", name: "image", widget: "image", required: false}
         - {label: "Contenu", name: "body", widget: "markdown"}
+    - name: "vie_citoyenne" # Used in routes, ie.: /admin/collections/:slug/edit
+      label: "Rubrique" # Used in the UI, ie.: "New Post"
+      folder: "exampleSite/content/vie-citoyenne" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      fields: # The fields each document in this collection have
+        - {label: "Titre", name: "title", widget: "string"}
+        - {label: "Date de publication", name: "date", widget: "datetime"}
+        - {label: "Description", name: "description", widget: "text"}
+        - {label: "Image", name: "image", widget: "image", required: false}
+        - {label: "Contenu", name: "body", widget: "markdown"}
+    - name: "vie_quotidienne" # Used in routes, ie.: /admin/collections/:slug/edit
+        label: "Rubrique" # Used in the UI, ie.: "New Post"
+        folder: "exampleSite/content/vie-quotidienne" # The path to the folder where the documents are stored
+        create: true # Allow users to create new documents in this collection
+        fields: # The fields each document in this collection have
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Contenu", name: "body", widget: "markdown"}        
+    - name: "infos_pratiques" # Used in routes, ie.: /admin/collections/:slug/edit
+          label: "Rubrique" # Used in the UI, ie.: "New Post"
+          folder: "exampleSite/content/infos-pratiques" # The path to the folder where the documents are stored
+          create: true # Allow users to create new documents in this collection
+          fields: # The fields each document in this collection have
+            - {label: "Titre", name: "title", widget: "string"}
+            - {label: "Date de publication", name: "date", widget: "datetime"}
+            - {label: "Description", name: "description", widget: "text"}
+            - {label: "Image", name: "image", widget: "image", required: false}
+            - {label: "Contenu", name: "body", widget: "markdown"}                  
+    - name: "culture_et_loisirs" # Used in routes, ie.: /admin/collections/:slug/edit
+            label: "Rubrique" # Used in the UI, ie.: "New Post"
+            folder: "exampleSite/content/culture-et-loisirs" # The path to the folder where the documents are stored
+            create: true # Allow users to create new documents in this collection
+            fields: # The fields each document in this collection have
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Date de publication", name: "date", widget: "datetime"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Contenu", name: "body", widget: "markdown"}                              
+    - name: "agenda_actu" # Used in routes, ie.: /admin/collections/:slug/edit
+              label: "Rubrique" # Used in the UI, ie.: "New Post"
+              folder: "exampleSite/content/agenda-actu" # The path to the folder where the documents are stored
+              create: true # Allow users to create new documents in this collection
+              fields: # The fields each document in this collection have
+                - {label: "Titre", name: "title", widget: "string"}
+                - {label: "Date de publication", name: "date", widget: "datetime"}
+                - {label: "Description", name: "description", widget: "text"}
+                - {label: "Image", name: "image", widget: "image", required: false}
+                - {label: "Contenu", name: "body", widget: "markdown"}                                            
