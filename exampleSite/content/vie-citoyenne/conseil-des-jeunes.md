@@ -1,9 +1,10 @@
 ---
-title: "Se loger"
+title: "Le conseil des jeunes"
 date: 2018-12-26T12:23:10+06:00
 image: images/blog/blog-img-3.jpg
 description: "this is meta description"
-type: "culture_et_loisirs"
+type: "vie_citoyenne"
+weight: 7
 ---
 
-Se loger
+Le conseil des jeunes.
