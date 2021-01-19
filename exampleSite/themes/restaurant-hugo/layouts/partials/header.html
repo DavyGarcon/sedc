@@ -1,5 +1,4 @@
 {{ "<!-- Navigation Start  -->" | safeHTML }}
-
 <nav class="navigation">
 	<div class="container">
 		<div class="block">
@@ -25,15 +24,31 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right" id="top-nav">
 							{{ range site.Menus.main }}
-							<li><a href="#{{.URL}}">{{ .Name }}</a></li>
+							<li onmouseover="toggleSubMenu('{{ .Name }}')" onmouseout="toggleSubMenu('{{ .Name }}')">
+								<a href="#{{.URL}}">{{ .Name }}</a>
+									<div id="{{ .Name }}" class="collapse">
+										<ul class="nav navbar-nav2 navbar-right">
+											<li><a>Jeunesse</a></li>
+											<li><a>Se loger</a></li>
+											<li><a>Social & santé</a></li>
+											<li><a>Se déplacer</a></li>
+											<li><a>Commerce</a></li>
+										</ul>
+									</div>
+							</li>  
 							{{ end }}
 						</ul>
-					</div><!-- /.navbar-collapse -->
+					</div>
+					<!-- /.navbar-collapse -->
 					{{else}}
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right" id="top-nav">
 							{{ range site.Menus.main }}
-							<li><a href="{{site.BaseURL}}#{{.URL}}">{{ .Name }}</a></li>
+							<li><a href="{{site.BaseURL}}#{{.URL}}">{{ .Name }}</a>
+								<ul class="nav navbar-nav navbar-right">
+									<li><a>tata</a></li>
+									<li><a>toto</a></li>
+								</ul></li>
 							{{ end }}
 						</ul>
 					</div><!-- /.navbar-collapse -->

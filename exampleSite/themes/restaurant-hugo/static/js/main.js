@@ -1,3 +1,13 @@
+function toggleSubMenu(element){
+    var subMenu = document.getElementById(element);
+    var className = subMenu.className;
+    if("show" == className){
+        subMenu.className="collapse";
+    }else     if("collapse" == className){
+        subMenu.className="show";
+    }
+}
+
 // Preloader js    
 $(window).on('load', function () {
     $('.preloader').fadeOut(100);
