@@ -389,6 +389,7 @@ submenu
 --*/
 
 nav .block .navbar-default .navbar-nav2 {
+  background: rgba(255, 255, 255, 0.89);
   position: absolute;
   color: #2E2E2E;
   padding: 10px 0px;
@@ -427,7 +428,7 @@ nav .block .navbar-default .navbar-nav2>li>a:hover:before {
 }
 
 nav .block .navbar-default .navbar-nav2>li.current>a {
-  color: #2E2E2E;
+  color: #2E2E2E; 
   position: absolute;
   padding: 10px 0px;
   margin: 0px 15px;
