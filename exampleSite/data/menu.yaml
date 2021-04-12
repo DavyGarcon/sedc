@@ -1,0 +1,42 @@
+vie_quotidienne:
+  type: vie_quotidienne
+  name: Vie Quotidienne    
+  weight: 1
+  items:
+  - name: Jeunesse
+    bg_image: "images/agenda-bg.jpg"    
+    type: jeunesse
+    items:
+    - name: Ecole
+      bg_image: "images/agenda-bg.jpg"
+      type: ecole
+    - name: ADMR
+      bg_image: "images/agenda-bg.jpg"
+      type: admr
+    - name: Assistantes Sociales
+      bg_image: "images/agenda-bg.jpg"
+      type: assistantes_sociales      
+    - name: Bailleurs sociaux
+      bg_image: "images/agenda-bg.jpg"
+      type: bailleurs_sociaux  
+    - name: CCAS
+      bg_image: "images/agenda-bg.jpg"
+      type: ccas
+    - name: Fil blanc
+      bg_image: "images/agenda-bg.jpg"
+      type: fil_blanc
+    - name: Fil bleu
+      bg_image: "images/agenda-bg.jpg"
+      type: fil_bleu      
+    - name: Médecins - Paramedical
+      bg_image: "images/agenda-bg.jpg"
+      type: medecins_paramedical  
+    - name: Périscolaire/ALSH
+      bg_image: "images/agenda-bg.jpg"
+      type: periscolaire_alsh
+    - name: Ram - Assistantes Maternelles
+      bg_image: "images/agenda-bg.jpg"
+      type: ram_assistantes_maternelles               
+    - name: Restaurant scolaire
+      bg_image: "images/agenda-bg.jpg"
+      type: restaurant_scolaire      

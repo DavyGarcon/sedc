@@ -1,0 +1,120 @@
+vie_quotidienne:
+  type: vie_quotidienne
+  name: Vie Quotidienne    
+  weight: 1
+  items:
+  - name: Jeunesse
+    bg_image: "images/agenda-bg.jpg"    
+    type: jeunesse
+    items:
+    - name: Ecole
+      bg_image: "images/agenda-bg.jpg"
+      type: ecole
+    - name: ADMR
+      bg_image: "images/agenda-bg.jpg"
+      type: admr
+    - name: Assistantes Sociales
+      bg_image: "images/agenda-bg.jpg"
+      type: assistantes_sociales      
+    - name: Bailleurs sociaux
+      bg_image: "images/agenda-bg.jpg"
+      type: bailleurs_sociaux  
+    - name: CCAS
+      bg_image: "images/agenda-bg.jpg"
+      type: ccas
+    - name: Fil blanc
+      bg_image: "images/agenda-bg.jpg"
+      type: fil_blanc
+    - name: Fil bleu
+      bg_image: "images/agenda-bg.jpg"
+      type: fil_bleu      
+    - name: Médecins - Paramedical
+      bg_image: "images/agenda-bg.jpg"
+      type: medecins_paramedical  
+    - name: Périscolaire/ALSH
+      bg_image: "images/agenda-bg.jpg"
+      type: periscolaire_alsh
+    - name: Ram - Assistantes Maternelles
+      bg_image: "images/agenda-bg.jpg"
+      type: ram_assistantes_maternelles               
+    - name: Restaurant scolaire
+      bg_image: "images/agenda-bg.jpg"
+      type: restaurant_scolaire      
+  - name: Social et Santé
+    type: social_et_sante
+    bg_image: "images/agenda-bg.jpg"    
+  - name: Se loger
+    type: se_loger
+    bg_image: "images/agenda-bg.jpg"    
+  - name: Se déplacer
+    type: se_deplacer
+    bg_image: "images/agenda-bg.jpg"    
+  - name: Commerce/Artisanat/Hôtellerie              
+    type: commerce_artisanat_hotellerie 
+    bg_image: "images/agenda-bg.jpg"     
+vie_citoyenne:
+  type: vie_citoyenne
+  name: Vie Citoyenne
+  weight: 2
+  items:
+  - name: Les élus
+    type: elus
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Les conseils municipaux
+    type: conseils_municipaux
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Les services municipaux
+    type: services_municipaux  
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Les commissions
+    type: commissions  
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Tours Métropole Val de Loire
+    type: tmvl  
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Les démarches administratives
+    type: demarches_administratives  
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Le conseil des Jeunes
+    type: conseil_des_jeunes  
+    bg_image: "images/agenda-bg.jpg"     
+infos_pratiques:
+  type: infos_pratiques
+  name: Infos pratiques
+  weight: 3
+  items:
+  - name: Horaires mairie
+    type: horaires_mairie
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Prévention/Sécurité
+    type: prevention_securite
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Règles de bon voisinage
+    type: regles_bon_voisinage
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Brûlage des déchets verts
+    type: brulage_dechets_verts
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Poubelles
+    type: poubelles
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Numéros utiles
+    type: numeros_utiles
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Prévention des risques naturels
+    type: prevention_risques_naturels
+    bg_image: "images/agenda-bg.jpg"     
+culture_et_loisirs:
+  type: culture_et_loisirs
+  name: Culture et Loisirs
+  weight: 4
+  items:
+  - name: Bibliothèque
+    type: bibliotheque
+    bg_image: "images/agenda-bg.jpg"    
+  - name: Associations
+    type: associations
+    bg_image: "images/agenda-bg.jpg"     
+  - name: Un peu d'histoire
+    type: histoire
+    bg_image: "images/agenda-bg.jpg"     

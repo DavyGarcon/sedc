@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos_pratiques on Restaurant Hugo</title>
+    <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/</link>
+    <description>Recent content in Infos_pratiques on Restaurant Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:23:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Horaires ouverture Mairie</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/horaires-mairie/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/horaires-mairie/</guid>
+      <description>Horaires ouverture de la Mairie</description>
+    </item>
+    
+    <item>
+      <title>Prévention et sécurité</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/prevention-securite/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/prevention-securite/</guid>
+      <description>Prévention et sécurité</description>
+    </item>
+    
+    <item>
+      <title>Règles de bon voisinage</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/regles-bon-voisinage/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/regles-bon-voisinage/</guid>
+      <description>Règles de bon voisinage.</description>
+    </item>
+    
+    <item>
+      <title>Brulage des déchets verts</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/brulage-dechets-verts/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/brulage-dechets-verts/</guid>
+      <description>Brulage des déchets verts.</description>
+    </item>
+    
+    <item>
+      <title>Poubelles</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/poubelles/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/poubelles/</guid>
+      <description>Poubelles</description>
+    </item>
+    
+    <item>
+      <title>Numéros utiles</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/numeros-utiles/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/numeros-utiles/</guid>
+      <description>NUméros utiles.</description>
+    </item>
+    
+    <item>
+      <title>Prévention des risques naturels</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/prevention-risques-naturels/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/infos_pratiques/prevention-risques-naturels/</guid>
+      <description>Prévention des risques naturels</description>
+    </item>
+    
+  </channel>
+</rss>

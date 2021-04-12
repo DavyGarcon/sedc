@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture_et_loisirs on Restaurant Hugo</title>
+    <link>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/</link>
+    <description>Recent content in Culture_et_loisirs on Restaurant Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:23:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bibliothèque</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/bibliotheque/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/bibliotheque/</guid>
+      <description>Bibliothèque</description>
+    </item>
+    
+    <item>
+      <title>Associations</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/associations/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/associations/</guid>
+      <description>Associations</description>
+    </item>
+    
+    <item>
+      <title>Un peu d&#39;histoire</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/histoire/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/culture_et_loisirs/histoire/</guid>
+      <description>Un peu d&amp;rsquo;histoire</description>
+    </item>
+    
+  </channel>
+</rss>

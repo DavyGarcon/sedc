@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vie_citoyennes on Restaurant Hugo</title>
+    <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/</link>
+    <description>Recent content in Vie_citoyennes on Restaurant Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 26 Dec 2018 12:23:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les élus</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/elus/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/elus/</guid>
+      <description>Les élus</description>
+    </item>
+    
+    <item>
+      <title>Les conseils municipaux</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/conseils-municipaux/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/conseils-municipaux/</guid>
+      <description>Les coneils municipaux</description>
+    </item>
+    
+    <item>
+      <title>Les services municipaux</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/services-municipaux/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/services-municipaux/</guid>
+      <description>Les services municipaux.</description>
+    </item>
+    
+    <item>
+      <title>Les commissions</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/commissions/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/commissions/</guid>
+      <description>Les commissions</description>
+    </item>
+    
+    <item>
+      <title>Tours Metropole Val de Loire</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/tmvl/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/tmvl/</guid>
+      <description>Tours Metropole Val de loire.</description>
+    </item>
+    
+    <item>
+      <title>Les démarches administratives</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/demarches-administratives/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/demarches-administratives/</guid>
+      <description>Les démarches administratives</description>
+    </item>
+    
+    <item>
+      <title>Le conseil des jeunes</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/conseil-des-jeunes/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/vie_citoyenne/conseil-des-jeunes/</guid>
+      <description>Le conseil des jeunes.</description>
+    </item>
+    
+  </channel>
+</rss>

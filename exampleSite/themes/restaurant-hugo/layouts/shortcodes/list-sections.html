@@ -1,0 +1,22 @@
+{{$cat := .Get "category" }}
+
+
+
+{{ range $menu := site.Data.menu}}
+{{ range $menuItem := $menu.items }}
+{{ range $subMenuItem := (where $menuItem.items "type" "eq" $cat)}}
+
+{{ range $page := (where site.RegularPages "Type" "eq" $cat) }}
+
+<section class="overlay" style="background-image: url('{{ $page.Params.image | absURL }}');">
+<h1>{{ $page.Title }}</h1>
+
+<p>
+{{ $page.Content }}
+</p>
+
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}

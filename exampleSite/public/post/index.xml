@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Restaurant Hugo</title>
+    <link>https://vigilant-euclid-6eaff6.netlify.app/post/</link>
+    <description>Recent content in Posts on Restaurant Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 17 Nov 2020 18:30:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://vigilant-euclid-6eaff6.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/post/test/</link>
+      <pubDate>Tue, 17 Nov 2020 18:30:21 +0000</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/post/test/</guid>
+      <description>coucou c&amp;rsquo;est mon</description>
+    </item>
+    
+    <item>
+      <title>Red Pepper Miso Wings 2</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/post/red-pepper-miso-wings-2/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/post/red-pepper-miso-wings-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro modi delectus rerum, sed blanditiis eaque eum, ex et officia veritatis id hic.</description>
+    </item>
+    
+    <item>
+      <title>Skillet Chicken with Potatoes</title>
+      <link>https://vigilant-euclid-6eaff6.netlify.app/post/restaurant/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      
+      <guid>https://vigilant-euclid-6eaff6.netlify.app/post/restaurant/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

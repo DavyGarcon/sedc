@@ -1,0 +1,14 @@
+
+# Structure du site
+
+Home 
+    -> Menu
+        -> sous Menu : chaque item emmène à une page, on ne peut pas ajouter/supprimer un item
+            -> page : elle est découpée en section
+                -> chaque section : contient une image et du texte, on doit pouvoir ajouter/supprimer une section
+
+# Fonctionnalités
+
+- voir pour uploader un fichier 
+- Régis veut une banque de fichier privés pour des documents qu'on ne veut pas encore communiquer : ça ne sera pas possible sur ce site, et pas forcément nécessaire
+
